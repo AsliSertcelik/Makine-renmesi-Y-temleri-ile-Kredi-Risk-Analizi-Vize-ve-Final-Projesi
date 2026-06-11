@@ -23,3 +23,11 @@ Sonuçlar
 | AdaBoost (Optimized)          |   0.5208 |
 | Gradient Boosting             |   0.5333 |
 | Gradient Boosting (Optimized) |   0.5332 |
+
+Kullanılan Kütüphaneler
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
