@@ -13,3 +13,13 @@ Additional Techniques:
 - K-Fold Cross Validation
 - GridSearchCV Hyperparameter Optimization
 - Feature Importance Analysis
+
+Sonuçlar
+| Model                         | Accuracy |
+| ----------------------------- | -------: |
+| Logistic Regression           |   0.4947 |
+| Decision Tree                 |   0.4305 |
+| AdaBoost                      |   0.5150 |
+| AdaBoost (Optimized)          |   0.5208 |
+| Gradient Boosting             |   0.5333 |
+| Gradient Boosting (Optimized) |   0.5332 |
